@@ -1,1 +1,1 @@
-# wattly
+# watt
